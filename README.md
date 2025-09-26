@@ -1,2 +1,1 @@
-#这是一个用AI写的美食网站Demo
-![Uploading image.png…]()
+这是一个用AI写的美食网站Demo
